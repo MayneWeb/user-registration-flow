@@ -1,4 +1,4 @@
-# Spree Commerce With Xero
+# User Registration Flow Using Ruby On Rails 6
 Credits are due to the mentioned owners of all gems used. See links below. Created and inspired by [Daveyon Mayne](https://www.twitter.com/mirmayne) @ [MayneWeb](https://www.mayneweb.com). Copyright 2019. License: MIT.
 
 ## Introduction
